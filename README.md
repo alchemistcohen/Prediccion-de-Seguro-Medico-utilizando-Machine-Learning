@@ -1,0 +1,1 @@
+El objetivo de este estudio es predecir el costo del seguro médico en el que incurren las personas en función de su edad, género, índice de masa corporal (BMI), número de hijos, hábitos de tabaquismo y ubicación geográfica.
